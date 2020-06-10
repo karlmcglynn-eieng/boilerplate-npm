@@ -4,6 +4,7 @@
 	"description": "A Project to do something",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"licence": "kmg",
+	"version": "1.2",
 		"dependencies": {
 		"express": "^4.14.0"
 	},
